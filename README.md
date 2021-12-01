@@ -1,4 +1,4 @@
-# mycode (Project Title)
+# mycode (Project Title 1)
 
 Wanting to learn how to version control projects with git.
 
